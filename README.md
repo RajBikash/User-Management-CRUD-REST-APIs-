@@ -24,6 +24,7 @@ This project demonstrates how to implement **Create, Read, Update, and Delete (C
 ---
 
 ## 📂 Project Structure
+```plaintext
 src/main/java/com/bikash
 │── controller # REST Controllers
 │── model # Entity classes
